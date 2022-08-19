@@ -1,5 +1,5 @@
 # PKGBUILD test
-Docker image to create a test environment to build PKGBUILD for (AUR)[https://aur.archlinux.org]
+Docker image to create a test environment to build PKGBUILD for [AUR](https://aur.archlinux.org)
 
 ## How to Use
 ### Building
